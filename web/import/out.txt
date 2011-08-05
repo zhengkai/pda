@@ -1,0 +1,1063 @@
+Array
+(
+    [0] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => ITavisen: Slik ser nye DS ut: Se snikbildene av den nye konsollen. http://tinyurl.com/65o5ab
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => ITavisen: Slik ser nye DS ut: Se snikbildene av den nye konsollen. http://tinyurl.com/65o5ab
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:25 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/ITavisen/statuses/987435026
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/ITavisen/statuses/987435026
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Pavarini: donald miller declara voto apaixonado em obama. http://tinyurl.com/6j823w?cmm=31707912&tid=5264266952859849780&na=4
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Pavarini: donald miller declara voto apaixonado em obama. http://tinyurl.com/6j823w?cmm=31707912&tid=5264266952859849780&na=4
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/Pavarini/statuses/987435024
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/Pavarini/statuses/987435024
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => igawakei: @miru 色々いれると美味いデスヨ *Tw*
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => igawakei: @miru 色々いれると美味いデスヨ *Tw*
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:25 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/igawakei/statuses/987435023
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/igawakei/statuses/987435023
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => aLmahh: Sunday on the phone to Monday. Tuesday on the phone to me.
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => aLmahh: Sunday on the phone to Monday. Tuesday on the phone to me.
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:24 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/aLmahh/statuses/987435022
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/aLmahh/statuses/987435022
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => CiprianGavriliu: @dianamaria tocmai asta e problema, e o nevoie exagerata :)
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => CiprianGavriliu: @dianamaria tocmai asta e problema, e o nevoie exagerata :)
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:25 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/CiprianGavriliu/statuses/987435021
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/CiprianGavriliu/statuses/987435021
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => suyasuyasu: @chiharu_n りょうかいｗｗ
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => suyasuyasu: @chiharu_n りょうかいｗｗ
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:24 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/suyasuyasu/statuses/987435020
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/suyasuyasu/statuses/987435020
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [6] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => yukki7291: @nogoodlife おはです
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => yukki7291: @nogoodlife おはです
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/yukki7291/statuses/987435019
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/yukki7291/statuses/987435019
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => meiolania: @p_g_サイバニクスは一応あたらしめの工学用語っぽいかも。メカトロニクスみたいな和製英語だろうか。。
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => meiolania: @p_g_サイバニクスは一応あたらしめの工学用語っぽいかも。メカトロニクスみたいな和製英語だろうか。。
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:24 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/meiolania/statuses/987435014
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/meiolania/statuses/987435014
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => soundOfTheTone: Bong. 1225708703.003 2008-11-03 10:38:23.003 Z
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => soundOfTheTone: Bong. 1225708703.003 2008-11-03 10:38:23.003 Z
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/soundOfTheTone/statuses/987435012
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/soundOfTheTone/statuses/987435012
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => FeedLinks: TERRA Mulheres dão toque especial à festa de Hamilton : Horas depois de se tornar o piloto campeão.. http://tinyurl.com/6gb9sn
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => FeedLinks: TERRA Mulheres dão toque especial à festa de Hamilton : Horas depois de se tornar o piloto campeão.. http://tinyurl.com/6gb9sn
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/FeedLinks/statuses/987435011
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/FeedLinks/statuses/987435011
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [10] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Hazemps: @Maswad open your email
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Hazemps: @Maswad open your email
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:24 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/Hazemps/statuses/987435010
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/Hazemps/statuses/987435010
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [11] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => ewersoncastelo: BaixaKi com muitas novidades....e com novo visual .....muito bom !
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => ewersoncastelo: BaixaKi com muitas novidades....e com novo visual .....muito bom !
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/ewersoncastelo/statuses/987435009
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/ewersoncastelo/statuses/987435009
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [12] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => saiha_kiryu: 森永ミルクココアが４６８円てなに？ふざけんてんの？値上がりしすぎだろＪＫ [ちーたん]
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => saiha_kiryu: 森永ミルクココアが４６８円てなに？ふざけんてんの？値上がりしすぎだろＪＫ [ちーたん]
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:21 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/saiha_kiryu/statuses/987435008
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/saiha_kiryu/statuses/987435008
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [13] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => allisonr: Retiring to the boudoir to burrow into the tranquility of my bed. Re-reading Geomancer.
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => allisonr: Retiring to the boudoir to burrow into the tranquility of my bed. Re-reading Geomancer.
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/allisonr/statuses/987435007
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/allisonr/statuses/987435007
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [14] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => PatriciaKogut: McCain no 'SNL': John McCain participou do &uacute;ltimo &nbsp;'Saturday night live'&nbsp;e, ao lad.. http://tinyurl.com/626eq7
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => PatriciaKogut: McCain no 'SNL': John McCain participou do &uacute;ltimo &nbsp;'Saturday night live'&nbsp;e, ao lad.. http://tinyurl.com/626eq7
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/PatriciaKogut/statuses/987435005
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/PatriciaKogut/statuses/987435005
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [15] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => _MrGreen_: Hate it here. Fuck my roommates
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => _MrGreen_: Hate it here. Fuck my roommates
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:22 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/_MrGreen_/statuses/987435004
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/_MrGreen_/statuses/987435004
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [16] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => oquno: 森公美子iPhoneにブチ切れてる
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => oquno: 森公美子iPhoneにブチ切れてる
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:22 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/oquno/statuses/987435003
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/oquno/statuses/987435003
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [17] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Silverknuten: @lauwil243 Thank you for the link!
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Silverknuten: @lauwil243 Thank you for the link!
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/Silverknuten/statuses/987435002
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/Silverknuten/statuses/987435002
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [18] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => TimJackson: http://twitpic.com/jpsz Hard to go wrong w/ super model for spokesperson!
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => TimJackson: http://twitpic.com/jpsz Hard to go wrong w/ super model for spokesperson!
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:23 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/TimJackson/statuses/987435001
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/TimJackson/statuses/987435001
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [19] => Array
+        (
+            [#] => Array
+                (
+                    [title] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => _nic_: 「ほら、私たちってやばいもの見ちゃってよく犯人に狙われちゃったりするし」
+                                )
+
+                        )
+
+                    [description] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => _nic_: 「ほら、私たちってやばいもの見ちゃってよく犯人に狙われちゃったりするし」
+                                )
+
+                        )
+
+                    [pubDate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => Mon, 03 Nov 2008 10:38:22 +0000
+                                )
+
+                        )
+
+                    [guid] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/_nic_/statuses/987435000
+                                )
+
+                        )
+
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [#] => http://twitter.com/_nic_/statuses/987435000
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
